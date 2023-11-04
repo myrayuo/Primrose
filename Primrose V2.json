@@ -1,6 +1,7 @@
 {
     "name": "Primose",
     "description": "This theme was made by Myrayuo.",
+    "version": "2.0",
     "authors": [
         {
             "name": "myrayuo",
@@ -145,5 +146,13 @@
     "BRAND_NEW": "#12a0ff",
     "STATUS_RED": "#f7071f",
     "STATUS_GREEN_600": "#f7071f"
+  },
+  "unsafe_colors": {
+    "CHAT_GREY": "#111011"
+  },
+  "background": {
+    "blur": 13.4,
+    "url": "https://cdn.discordapp.com/attachments/1158483320162754592/1170247991853068339/IMG_1382.png",
+    "alpha": 1.0
   }
 }
