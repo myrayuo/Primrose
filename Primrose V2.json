@@ -147,6 +147,9 @@
     "STATUS_RED": "#f7071f",
     "STATUS_GREEN_600": "#f7071f"
   },
+  "unsafe_colors": {
+    "CHAT_GREY": "#111011"
+  },
   "background": {
     "blur": 13.4,
     "url": "https://cdn.discordapp.com/attachments/1158483320162754592/1170247991853068339/IMG_1382.png",
