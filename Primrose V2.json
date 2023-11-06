@@ -160,7 +160,7 @@
         "icons": {
            "StatusStreaming": "#B48EAD",
            "StatusMobileOnline": "#A3BE8C",
-           "StatusIdle": "#D08770",
+           "StatusIdle": "#d0c370",
            "StatusDND": "#BF616A",
            "StatusOffline": "#4C566A",
            "StatusOnline": "#A3BE8C"
