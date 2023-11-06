@@ -146,7 +146,16 @@
     "BRAND_NEW": "#12a0ff",
     "STATUS_RED": "#f7071f",
     "STATUS_GREEN_600": "#f7071f"
+   },
+   "plus": {
+     "version": 2.0,
+     "unreadBadgeColor": "#a565f7",
+     "mentionLineColor": "#a96df7",
+     "customOverlays": true,
+     "iconpack":"rosiecord-plumpy"
   },
+  "spec": 2
+  }, 
   "unsafe_colors": {
     "CHAT_GREY": "#111011"
   },
