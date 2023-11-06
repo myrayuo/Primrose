@@ -147,12 +147,6 @@
     "STATUS_RED": "#f7071f",
     "STATUS_GREEN_600": "#f7071f"
    },
-   "plus": {
-     "customOverlays": true,
-     "iconpack":"rosiecord-plumpy"
-   },
-   "spec": 2
-   }, 
    "unsafe_colors": {
      "CHAT_GREY": "#111011"
    },
