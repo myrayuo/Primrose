@@ -163,7 +163,7 @@
            "StatusIdle": "#d0c370",
            "StatusDND": "#BF616A",
            "StatusOffline": "#4C566A",
-           "StatusOnline": "#A3BE8C"
+           "StatusOnline": "#72d950"
         }
     },
     "spec": 2
