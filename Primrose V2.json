@@ -117,6 +117,10 @@
       "#111111",
       "#ebedef"
     ],
+    "CHANNEL_TEXT_AREA_PLACEHOLDER": [
+        "#00eaff",
+        "#00eaff"
+    ],
     "CHANNELS_DEFAULT": [
       "#eb0e33",
       "#eb0e33"
