@@ -1,17 +1,18 @@
 {
-    "name": "Primroses",
-    "description": "This theme was made by urana.",
-    "version": "1.0",
+    "name": "Ataraxia",
+    "description": "A state of serene calmness",
     "authors": [
+
         {
-            "name": "myrayuos",
-            "id": "940062409618497630"
+            "name": "ft.vodka",
+            "id": "1068030255455015013"
+          
         }
     ],
     "spec": 2,
     "semanticColors": {
         "HEADER_PRIMARY": [
-            "#eb0e33"
+            "#f2d0cf"
         ],
         "HEADER_SECONDARY": [
             "#f2d0cf"
