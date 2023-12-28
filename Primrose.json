@@ -3,10 +3,9 @@
     "description": "This theme was made by Myrayuo.",
     "version": "2.0",
     "authors": [
-      {
-          "name": "myrayuo",
-          "id": "940062409618497630""
-          
+        {
+            "name": "myrayuo",
+            "id": "940062409618497630"
         }
     ],
     "spec": 2,
