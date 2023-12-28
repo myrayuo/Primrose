@@ -1,18 +1,13 @@
 {
-    "name": "Cobalt",
-    "description": "Theme made by Sam Marg, Based on my favourite colors.",
-    "version": "0.1",
+    "name": "Primrose",
+    "description": "Theme made by myrayuo, Based on my favourite colors.",
+    "version": "1.0",
     "authors": [
       {
-        "name": "Sam Marg",
-        "id": "760125732524392458"
+        "name": "myrayuo",
+        "id": "940062409618497630"
       }
     ],
-
-    "fonts": {
-        "default": "figtree, sans-serif"
-      },
-
     "theme_color_map": {
       "HEADER_PRIMARY": [
         "#0ef6cd",
@@ -152,6 +147,24 @@
       "STATUS_GREEN_600": "#0ef6cc"
     },
     "unsafe_colors": {
-      "CHAT_GREY": "#111011"
-    }
-  }
+     "CHAT_GREY": "#111011"
+   },
+   "background": {
+    "blur": 13.4,
+    "url": "https://cdn.discordapp.com/attachments/1158483320162754592/1170261631176015892/IMG_1383.jpg",
+    "alpha": 1.0
+    },
+    "plus": {
+        "version": 0,
+        "iconpack": "rosiecord-plumpy",
+        "icons": {
+           "StatusStreaming": "#B48EAD",
+           "StatusMobileOnline": "#72d950",
+           "StatusIdle": "#d0c370",
+           "StatusDND": "#BF616A",
+           "StatusOffline": "#4C566A",
+           "StatusOnline": "#72d950"
+        }
+    },
+    "spec": 2
+}
