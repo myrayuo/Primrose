@@ -125,49 +125,44 @@
         ],
         "BG_BACKDROP": [
             "#04010173"
-        ]
+   ]
+  },
+  "colours": {
+    "PRIMARY_DARK": "#747474",
+    "PRIMARY_DARK_100": "#FFFFFF",
+    "PRIMARY_DARK_200": "#FFFFFF",
+    "PRIMARY_DARK_300": "#807c7c",
+    "PRIMARY_DARK_360": "#eb0e33",
+    "PRIMARY_DARK_400": "#807c7c",
+    "PRIMARY_DARK_500": "#34a4fa",
+    "PRIMARY_DARK_600": "#111011",
+    "PRIMARY_DARK_630": "#141414",
+    "PRIMARY_DARK_645": "#eb0e33",
+    "PRIMARY_DARK_700": "#101010",
+    "PRIMARY_DARK_800": "#111011",
+    "BRAND_NEW": "#12a0ff",
+    "STATUS_RED": "#f7071f",
+    "STATUS_GREEN_600": "#f7071f"
+   },
+   "unsafe_colors": {
+     "CHAT_GREY": "#111011"
+   },
+   "background": {
+    "blur": 13.4,
+    "url": "https://cdn.discordapp.com/attachments/1158483320162754592/1170261631176015892/IMG_1383.jpg",
+    "alpha": 1.0
     },
-    "rawColors": {
-        "PRIMARY_500": "#E3C5C5",
-        "PRIMARY_100": "#E4D4CC",
-        "PRIMARY_200": "#F4EAE5",
-        "PRIMARY_230": "#F4EAE5",
-        "PRIMARY_300": "#735682",
-        "PRIMARY_360": "#7C6766",
-        "PRIMARY_400": "#735682",
-        "PRIMARY_600": "#281f2b",
-        "PRIMARY_630": "#231b27",
-        "PRIMARY_645": "#74646d",
-        "PRIMARY_660": "#231b27",
-        "PRIMARY_700": "#312438",
-        "PRIMARY_800": "#231b27",
-        "BRAND_260": "#D2B7AA",
-        "BRAND_360": "#F4EAE5",
-        "BRAND_500": "#74646d",
-        "BRAND_560": "#735682",
-        "YELLOW_300": "#D2B7AA",
-        "GREEN_600": "#EFDFD7",
-        "RED_400": "#BDA2A2",
-        "WHITE_500": "#EFDFD7",
-        "GREEN_360": "#74646d"
+    "plus": {
+        "version": 0,
+        "iconpack": "rosiecord-plumpy",
+        "icons": {
+           "StatusStreaming": "#B48EAD",
+           "StatusMobileOnline": "#72d950",
+           "StatusIdle": "#d0c370",
+           "StatusDND": "#BF616A",
+           "StatusOffline": "#4C566A",
+           "StatusOnline": "#72d950"
+        }
     },
-    
-    "background": {
-        "blur": 0.5,
-        "url": "https://cdn.discordapp.com/attachments/1086985889286209586/1165313103626522715/flower_outline_4.jpg?ex=65466566&is=6533f066&hm=021620dd18a48d11a524b52449e56e0b2e07097a76afedc4cbec8dafa8055409&",
-        "alpha": 0.7
-        },
-        "plus":{
-       "version":"0",
-        "iconpack":"rosiecord-plumpy",
-       "icons":{
-                "ic_new_pins":["#e64553"],
-                "StatusStreaming": ["#7e64fb"],
-              "StatusMobileOnline": ["#09bd63"],
-              "StatusIdle": ["#ffd401"],
-              "StatusDND": ["#ff611a"],
-              "StatusOffline": ["#015bd5"],
-              "StatusOnline": ["#09bd63"]}
-    },
-        "color": "#6b8e4e"
+    "spec": 2
 }
