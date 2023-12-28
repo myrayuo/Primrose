@@ -159,12 +159,12 @@
         "version": 1.0,
         "iconpack": "rosiecord-plumpy",
         "icons": {
-           "StatusStreaming": "#141414",
-           "StatusMobileOnline": "#141414",
-           "StatusIdle": "#141414",
-           "StatusDND": "#141414",
-           "StatusOffline": "#141414",
-           "StatusOnline": "#141414"
+           "StatusStreaming": "#181818",
+           "StatusMobileOnline": "#181818",
+           "StatusIdle": "#181818",
+           "StatusDND": "#181818",
+           "StatusOffline": "#181818",
+           "StatusOnline": "#181818"
         }
     },
     "spec": 2
