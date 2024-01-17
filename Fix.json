@@ -135,16 +135,20 @@
         ],
         "KEYBOARD": [
             "#111011",
-            "#FFFFFF"
+            "#FFFFFF"        
+        ],
+        "CHAT_BACKGROUND": [
+            "#222224",
+            "#ffffff"
         ]
   }, 
    "rawColors": { 
      "PRIMARY_500": "#34a4fa",
-     "PRIMARY_600": "#111011", 
+     "PRIMARY_600": "", 
      "PRIMARY_630": "#141414", 
      "PRIMARY_640": "#eb0e33", 
      "PRIMARY_700": "#101010", 
-     "PRIMARY_800": "#111011", 
+     "PRIMARY_800": "", 
      "BRAND_260": "#12a0ff", 
      "BRAND_360": "#eb0e33", 
      "BRAND_500": "#34a4fa", 
