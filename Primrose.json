@@ -43,7 +43,7 @@
     ],
     "BACKGROUND_PRIMARY": [
       "#111011",
-      "#ffffff",
+      "#ffffff"
     ],
     "BACKGROUND_SECONDARY": [
       "#111011",
@@ -142,7 +142,7 @@
     "PRIMARY_DARK_630": "#141414",
     "PRIMARY_DARK_645": "#eb0e33",
     "PRIMARY_DARK_700": "#101010",
-    "PRIMARY_DARK_800": "#111011", 
+    "PRIMARY_DARK_800": "#111011",
     "BRAND_NEW": "#12a0ff",
     "STATUS_RED": "#f7071f",
     "STATUS_GREEN_600": "#f7071f"
