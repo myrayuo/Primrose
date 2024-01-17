@@ -154,7 +154,8 @@
      "STATUS_RED": "#f7071f",
      "STATUS_GREEN_600": "#f7071f",
      "PLUM_6": "#1a1a1a",
-     "PLUM_20": "#1a1a1a"
+     "PLUM_20": "#1a1a1a",
+     "PLUM_3": "#1a1a1a"
    },
    "background": {
     "blur": 13.4,
