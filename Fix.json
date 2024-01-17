@@ -1,10 +1,11 @@
 {  
-    "name": "p1x3ln1ghtz",
-    "description": "a theme based around my homescreen layout",
+    "name": "Primrose",
+    "description": "Theme made by Myrayuo, inspired by my favorite colors.",
+    "version": "1.0",
     "authors": [
         {
-            "name": "G0R3C4T",
-            "id": "499287211381096458"
+            "name": "myrayuo",
+            "id": "940062409618497630"
         }
     ],
     "semanticColors": {
