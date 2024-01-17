@@ -175,6 +175,6 @@
            "StatusOnline": "#1cd45c"
     },
     "unsafe_colors": {
-      "CHAT_GREY": "#111011"
-    }
-  }        
+      "CHAT_GREY": "#111011",
+      "spec": 2
+}
