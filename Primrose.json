@@ -130,7 +130,7 @@
       "#FFFFFF"
     ]
   },
-  "colours": {
+  "rawColors": {
     "PRIMARY_DARK": "#747474",
     "PRIMARY_DARK_100": "#FFFFFF",
     "PRIMARY_DARK_200": "#FFFFFF",
