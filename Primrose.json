@@ -173,5 +173,8 @@
            "StatusDND": "#ff0839",
            "StatusOffline": "#212021",
            "StatusOnline": "#1cd45c"
-     }
-}
+    },
+    "unsafe_colors": {
+      "CHAT_GREY": "#111011"
+    }
+  }        
