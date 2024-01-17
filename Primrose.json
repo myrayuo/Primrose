@@ -177,4 +177,6 @@
            "StatusOffline": "#212021",
            "StatusOnline": "#1cd45c"
         }
+    },
+    "spec": 2
 }
