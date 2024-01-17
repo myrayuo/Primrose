@@ -21,11 +21,11 @@
             "#2e3338"
         ],
         "TEXT_MUTED": [
-            "#979BF6",
-            "#747f8d"
+            "#eb0e33",
+            "#f70233"
         ],
         "INTERACTIVE_NORMAL": [
-            "#9fa1cf",
+            "#ff0026",
             "#4f5660"
         ],
         "INTERACTIVE_HOVER": [
