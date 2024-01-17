@@ -121,6 +121,9 @@
             "#111111",
             "#ebedef"
         ],
+        "CHANNEL_TEXT_AREA_PLACEHOLDER": [
+            "#3b3939"
+        ],
         "CHANNELS_DEFAULT": [
             "#eb0e33",
             "#eb0e33"
@@ -135,11 +138,7 @@
         ],
         "KEYBOARD": [
             "#111011",
-            "#FFFFFF"        
-        ],
-        "CHAT_BACKGROUND": [
-            "#222224",
-            "#ffffff"
+            "#FFFFFF"
         ]
   }, 
    "rawColors": { 
@@ -148,7 +147,7 @@
      "PRIMARY_600": "#111011", 
      "PRIMARY_630": "#141414", 
      "PRIMARY_640": "#eb0e33", 
-     "PRIMARY_700": "#212121", 
+     "PRIMARY_700": "#1a1a1a", 
      "PRIMARY_800": "#111011", 
      "BRAND_260": "#12a0ff", 
      "BRAND_360": "#eb0e33", 
