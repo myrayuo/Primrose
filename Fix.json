@@ -129,11 +129,11 @@
             "#6a6ea1"
         ],
         "TEXT_LINK": [
-            "#979BF6",
+            "#00eaff",
             "#000000"
         ],
         "KEYBOARD": [
-            "#202029",
+            "#111011",
             "#FFFFFF"
         ],
         "CHAT_BACKGROUND": [
@@ -155,20 +155,25 @@
     "YELLOW_300": "#B2BAE2", 
     "RED_400": "#979BF6"
    },
+   "background": {
+    "blur": 13.4,
+    "url": "https://cdn.discordapp.com/attachments/1158483320162754592/1193152865808695407/IMG_1530.png?ex=65b4e7b2&is=65a272b2&hm=958db4c21f6fd68a1615c0eaa52e99406d321ea6e92941ca1752045523278895&",
+    "alpha": 1.0
+   }, 
    "plus":{
-        "version":"0",
+        "version":"1.0",
         "iconpack":"rosiecord-plumpy",
         "icons":{
             "ic_new_pins":["#e64553"],
             "StatusStreaming": ["#7e64fb"],
-          "StatusMobileOnline": ["#09bd63"],
-          "StatusIdle": ["#ffd401"],
-          "StatusDND": ["#ff611a"],
-          "StatusOffline": ["#015bd5"],
-          "StatusOnline": ["#09bd63"]}
+          "StatusMobileOnline": ["#1cd45c"],
+          "StatusIdle": ["#ffea08"],
+          "StatusDND": ["#ff0839"],
+          "StatusOffline": ["#212021"],
+          "StatusOnline": ["#1cd45c"]}
      },
-    "unreadBadgeColor": "#979BF6",
-    "mentionLineColor": "#979BF6",
+    "unreadBadgeColor": "#eb0e33",
+    "mentionLineColor": "#eb0e33",
     "customOverlays": true,
     "spec": 2
 }
