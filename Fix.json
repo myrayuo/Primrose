@@ -22,7 +22,7 @@
             "#2e3338"
         ],
         "TEXT_MUTED": [
-            "#454545",
+            "#eb0e33",
             "#f70233"
         ],
         "INTERACTIVE_NORMAL": [
@@ -50,8 +50,8 @@
             "#f2f3f5"
         ],
         "BACKGROUND_SECONDARY_ALT": [
-            "#111011",
-            "#f2f3f5"
+            "#141414",
+            "#ebedef"
         ],
         "BACKGROUND_TERTIARY": [
             "#141414",
