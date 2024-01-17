@@ -45,6 +45,12 @@
       "#111011",
       "#ffffff"
     ],
+    "CHANNELS_DEFAULT": [
+      "#a89984"
+    ],
+    "CHANNEL_TEXT_AREA_PLACEHOLDER": [
+      "#a89984"
+    ],
     "BACKGROUND_SECONDARY": [
       "#111011",
       "#f2f3f5"
