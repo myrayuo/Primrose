@@ -53,6 +53,10 @@
             "#141414",
             "#ebedef"
         ],
+        "REDESIGN_BUTTON_SECONDARY_ALT_BACKGROUND": [
+            "#1a1a1a",
+            "#1a1a1a"
+        ],
         "BACKGROUND_TERTIARY": [
             "#141414",
             "#e3e5e8"
@@ -144,6 +148,7 @@
      "PRIMARY_600": "#111011", 
      "PRIMARY_630": "#141414", 
      "PRIMARY_640": "#eb0e33",
+     "PRIMARY_700": "#1a1a1a",
      "PRIMARY_800": "#111011", 
      "BRAND_260": "#12a0ff", 
      "BRAND_360": "#12a0ff", 
