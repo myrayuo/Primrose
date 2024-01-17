@@ -22,7 +22,7 @@
             "#2e3338"
         ],
         "TEXT_MUTED": [
-            "#eb0e33",
+            "#3b3939",
             "#f70233"
         ],
         "INTERACTIVE_NORMAL": [
@@ -120,10 +120,6 @@
         "CHANNELTEXTAREA_BACKGROUND": [
             "#111111",
             "#ebedef"
-        ],
-        "CHANNEL_TEXT_AREA_PLACEHOLDER": [
-            "#3b3939",
-            "#3b3939"
         ],
         "CHANNELS_DEFAULT": [
             "#eb0e33",
