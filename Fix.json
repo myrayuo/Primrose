@@ -101,11 +101,11 @@
             "hsla(217, 7.6%, 33.5%, 0.3)"
         ],
         "SCROLLBAR_THIN_TRACK": [
-            "171717",
-            "#45475a"
+            "transparent",
+            "hsla(0, 0%, 0%, 0)"
         ],
         "SCROLLBAR_AUTO_THUMB": [
-            "#979BF6",
+            "#2a1858",
             "#cccccc"
         ], 
          "SPOILER_HIDDEN_BACKGROUND": [ 
@@ -113,7 +113,7 @@
              "#ffffff"
         ],
         "SCROLLBAR_AUTO_TRACK": [
-            "#171717",
+            "rgba(0, 0, 0, 0.1)",
             "#f2f2f2"
         ],
         "CHANNELTEXTAREA_BACKGROUND": [
