@@ -8,12 +8,12 @@
         }
     ],
     "semanticColors": {
-        "HEADER_PRIMARY": [
+        "HEADER_PRIMARY": [ #Settings set status, account color etc
             "#eb0e33",
             "#060607"
         ],
         "HEADER_SECONDARY": [
-            "#979BF6",
+            "#807c7c",
             "#4f5660"
         ],
         "TEXT_NORMAL": [
