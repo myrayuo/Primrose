@@ -157,13 +157,16 @@
     "STATUS_RED": "#f7071f",
     "STATUS_GREEN_600": "#f7071f"
    },
+   "unsafe_colors": {
+     "CHAT_GREY": "#111011"
+   },
    "background": {
     "blur": 13.4,
     "url": "https://cdn.discordapp.com/attachments/1158483320162754592/1193152865808695407/IMG_1530.png?ex=65b4e7b2&is=65a272b2&hm=958db4c21f6fd68a1615c0eaa52e99406d321ea6e92941ca1752045523278895&",
     "alpha": 1.0
-    },
+     },
     "spec": 2,
-    "plus": {
+     "plus": {
         "version": 1.0,
         "iconpack": "rosiecord-plumpy",
         "icons": {
@@ -173,8 +176,5 @@
            "StatusDND": "#ff0839",
            "StatusOffline": "#212021",
            "StatusOnline": "#1cd45c"
-    },
-    "unsafe_colors": {
-      "CHAT_GREY": "#111011",
-      "spec": 2
+        }
 }
