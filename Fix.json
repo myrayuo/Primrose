@@ -21,7 +21,7 @@
             "#2e3338"
         ],
         "TEXT_MUTED": [
-            "#f70233",
+            "#eb0e33",
             "#f70233"
         ],
         "INTERACTIVE_NORMAL": [
@@ -33,11 +33,11 @@
             "#2e3338"
         ],
         "INTERACTIVE_ACTIVE": [
-            "#979BF6",
+            "#ffffff",
             "#060607"
         ],
         "INTERACTIVE_MUTED": [
-            "#697eab",
+            "#ff0026",
             "#c7ccd1"
         ],
         "BACKGROUND_PRIMARY": [
