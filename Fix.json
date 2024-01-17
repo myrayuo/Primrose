@@ -109,15 +109,15 @@
             "#cccccc"
         ], 
          "SPOILER_HIDDEN_BACKGROUND": [ 
-             "#171717", 
+             "#141414", 
              "#ffffff"
         ],
         "SCROLLBAR_AUTO_TRACK": [
             "#171717",
-            "#45475a"
+            "#f2f2f2"
         ],
         "CHANNELTEXTAREA_BACKGROUND": [
-            "#171717",
+            "#111111",
             "#ebedef"
         ],
         "CHANNELS_DEFAULT": [
@@ -125,8 +125,8 @@
             "#eb0e33"
         ],
         "CHANNEL_ICON": [
-            "#141414",
-            "#141414"
+            "#3f3f42",
+            "#3f3f42"
         ],
         "TEXT_LINK": [
             "#00eaff",
