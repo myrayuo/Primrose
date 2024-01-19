@@ -177,7 +177,7 @@
           "StatusOnline": ["#1cd45c"]}
      },
     "unreadBadgeColor": "#eb0e33",
-    "mentionLineColor": "#eb0e33",
+    "mentionLineColor": "#34a4fa",
     "customOverlays": true,
     "spec": 2
 }
