@@ -138,8 +138,8 @@
             "#000000"
         ],
         "BG_BACKDROP": [
-            "#000000",
-            "#000000"
+            "transparent",
+            "transparent"
         ],
         "KEYBOARD": [
             "#111011",
@@ -154,7 +154,7 @@
      "PRIMARY_640": "#eb0e33",
      "PRIMARY_700": "#1a1a1a",
      "PRIMARY_800": "#111011", 
-     "BRAND_260": "#1a1a1a", 
+     "BRAND_260": "#34a4fa", 
      "BRAND_360": "#12a0ff", 
      "BRAND_500": "#34a4fa", 
      "BRAND_560": "#34a4fa", 
