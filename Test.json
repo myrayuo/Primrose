@@ -1,11 +1,11 @@
-{
-    "name": "Eye Candy",
-    "description": "Eye Candy. Original made by HaniBee.",
-    "version": "2.0.0",
+{  
+    "name": "Primrose",
+    "description": "Theme made by Myrayuo, inspired by my favorite colors.",
+    "version": "1.0",
     "authors": [
-      {
-        "name": "Moodl",
-        "id": "807170846497570848"
+        {
+        "name": "myrayuo",
+        "id": "940062409618497630""
       }
     ],
     "semanticColors": {
