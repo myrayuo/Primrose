@@ -5,11 +5,11 @@
     "authors": [
         {
         "name": "myrayuo",
-        "id": "940062409618497630""
+        "id": "940062409618497630"
       }
     ],
     "semanticColors": {
-      "HEADER_PRIMARY": [ "#FFFFFF" ],
+      "HEADER_PRIMARY": [ "#eb0e33" ],
       "HEADER_SECONDARY": [ "#fffeff" ],
       "TEXT_NORMAL": [ "#E8E8EA" ],
       "TEXT_MUTED": [ "#CEB0CD" ],
