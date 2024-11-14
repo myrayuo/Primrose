@@ -37,6 +37,8 @@
     "SPOILER_HIDDEN_BACKGROUND": ["#141414", "#ffffff"],
     "SCROLLBAR_AUTO_TRACK": ["rgba(0, 0, 0, 0.1)", "#f2f2f2"],
     "CHANNELTEXTAREA_BACKGROUND": ["#111111", "#ebedef"],
+    "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": [ "#ff0026" ], 
+    "REDESIGN_CHANNEL_NAME_TEXT": [ "#ffffff" ],
     "CHANNELS_DEFAULT": ["#eb0e33", "#eb0e33"],
     "CHANNEL_ICON": ["#999999", "#999999"],
     "TEXT_LINK": ["#00eaff", "#000000"],
