@@ -132,11 +132,15 @@
   },
   "background": {
     "blur": 13.4,
-    "url": "https://cdn.discordapp.com/attachments/1158483320162754592/1193152865808695407/IMG_1530.png?ex=67368672&is=673534f2&hm=84c1704eeab1da99da7b1a4009bec5c51cf56792fce47b8afde4e52acc6c1050&"
+    "url": "https://cdn.discordapp.com/attachments/1158483320162754592/1193152865808695407/IMG_1530.png?ex=67368672&is=673534f2&hm=84c1704eeab1da99da7b1a4009bec5c51cf56792fce47b8afde4e52acc6c1050&",
+    "alpha": 1.0
   },
   "plus": {
-    "version": "0",
+    "version": "1.0",
+    "unreadBadgeColor": "#eb0e33",
+    "mentionLineColor": "#eb0e33",
     "customOverlays": true,
+    "iconpack":"rosiecord-plumpy",
     "icons": {
       "ic_radio_circle_checked": "#AF986B",
       "ic_radio_circle_checked__overlay": "#FFFFFF",
@@ -145,12 +149,13 @@
       "ic_radio_square_checked_24px__overlay": "#FFFFFF",
       "ic_selection_checked_24px": "#AF986B",
       "ic_selection_checked_24px__overlay": "#FFFFFF",
-      "StatusMobileOnline": "#a6d189",
-      "StatusIdle": "#e5c890",
-      "StatusDND": "#e78284",
-      "StatusOffline": "#585666",
-      "StatusOnline": "#a6d189",
-      "StatusStreaming": "#ca9ee6"
+      "ic_new_pins": "#e64553",
+      "StatusMobileOnline": "#1cd45c",
+      "StatusIdle": "#ffea08",
+      "StatusDND": "#ff0839",
+      "StatusOffline": "#212021",
+      "StatusOnline": "#1cd45c",
+      "StatusStreaming": "#7e64fb"
     }
   },
   "spec": 2
