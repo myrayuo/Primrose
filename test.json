@@ -1,11 +1,11 @@
 {
-    "name": "Orchid Love",
-    "description": "Theme made with love",
-    "random text": "",
+    "name": "Primrose",
+    "description": "Theme made by Myrayuo, inspired by my favorite colors.",
+    "version": "1.0",
     "authors": [
         {
-            "name": "Vodka",
-            "id": "1068030255455015013"
+            "name": "myrayuo",
+            "id": "940062409618497630"
         }
     ],
     "semanticColors": {
@@ -187,7 +187,7 @@
     },
     "background": {
         "blur": 13.4,
-        "url": "https://cdn.discordapp.com/attachments/1158483320162754592/1193152865808695407/IMG_1530.png?ex=674ceff2&is=674b9e72&hm=569d83f6eba8f97abbd157824eb33a047263129196a67649e84df1dd6b471fd2&",
+        "url": "https://cdn.discordapp.com/attachments/1158483320162754592/1193152865808695407/IMG_1530.png?ex=67879ab2&is=67864932&hm=d819183f5d5e7fe385bf1d4cd06f844534957022397d2db14a3e42d36b402178&",
         "alpha": 1.0
     },
     "plus": {
