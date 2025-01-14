@@ -34,7 +34,7 @@
         "CHANNEL_TEXT_AREA_PLACEHOLDER": ["#eb0e33"],
         "HEADER_PRIMARY": ["#eb0e33"],
         "HEADER_SECONDARY": ["#807c7c"],
-        "PANEL_BG": ["181818],
+        "PANEL_BG": ["181818"],
         "INTERACTIVE_ACTIVE": ["#ffffff"],
         "INTERACTIVE_HOVER": ["#dcddde"],
         "INTERACTIVE_MUTED": ["#ff0026"],
