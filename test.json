@@ -24,7 +24,7 @@
         "BACKGROUND_TERTIARY": ["#141414"],
         "BG_BASE_PRIMARY": ["#111011"],
         "BG_BASE_SECONDARY": ["#111011"],
-        "BORDER_FAINT": ["#111011"],
+        "BORDER_FAINT": ["#0fcfff"],
         "BORDER_STRONG": ["#111011"],
         "BORDER_SUBTLE": ["#111011"],
         "CARD_SECONDARY_BG": ["#111011"],
