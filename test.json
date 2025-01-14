@@ -9,7 +9,6 @@
         }
     ],
     "semanticColors": {
-        "ANDROID_RIPPLE": ["rgba(46, 43, 45, 0.07)"],
         "BACKGROUND_ACCENT": ["#ff0026"],
         "BACKGROUND_MESSAGE_HOVER": ["rgba(255, 255, 255, 0.02)"],
         "BACKGROUND_MOBILE_PRIMARY": ["#141414"],
